@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>/talk/2019-adc-3/</loc>
+    <lastmod>2019-06-16T02:20:01-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/</loc>
     <lastmod>2019-08-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -29,14 +34,31 @@
   </url>
   
   <url>
-    <loc>/talk/2019-adc-1/</loc>
+    <loc>/tags/</loc>
+    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/diabetes/</loc>
+    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/gut-microbiota/</loc>
+    <lastmod>2019-06-16T02:20:01-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/talk/2019-adc-2/</loc>
     <lastmod>2019-06-16T02:20:01-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>/talk/2019-adc-1/</loc>
+    <lastmod>2019-06-16T02:20:01-07:00</lastmod>
   </url>
   
   <url>
@@ -128,12 +150,6 @@
   </url>
   
   <url>
-    <loc>/tags/diabetes/</loc>
-    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/metabolic-syndrome/</loc>
     <lastmod>2019-08-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -212,12 +228,6 @@
   </url>
   
   <url>
-    <loc>/tags/gut-microbiota/</loc>
-    <lastmod>2019-06-16T02:20:01-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/chronic-kidney-disease/</loc>
     <lastmod>2019-01-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -252,6 +262,11 @@
   <url>
     <loc>/talk/2018-charm/</loc>
     <lastmod>2019-06-16T02:20:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
