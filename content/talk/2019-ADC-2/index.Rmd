@@ -1,0 +1,55 @@
+---
+title: "Advanced Glycation Endproduct-Induced Albuminuria and Changes in Gut Microbiota and Metabolome are Attenuated by Resistant Starch in a Mouse Model of Type 2 Diabetes" 
+draft: false
+authors: []
+event: "Australasian Diabetes Congress 2019"
+event_url: http://www.diabetescongress.com.au/ 
+location: Sydney, Australia
+summary: "Australasian Diabetes Congress 2019"
+
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: "2019-08-22T08:00:00Z"
+#date_end: "2019-10-02T12:00:00Z"
+all_day: true
+publishdate: "2019-08-22"
+
+links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/matt_snelson
+#- icon: file-alt
+#  icon_pack: fa
+#  name: Published Abstract
+#  url: ""
+
+
+categories:
+#  - talks
+tags:
+  - advanced glycation endproducts
+  - resistant starch
+  - diabetic kidney disease
+lastmod: '2019-06-16T02:20:01-07:00'
+featured: no
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: no
+projects: []
+---
+
+#### Abstract:
+
+Background:
+Excess intake of dietary advanced glycation endproducts (AGEs) contributes to chronic renal injury. Gut dysbiosis is implicated in the progression of diabetic nephropathy, however, the role of dietary AGEs in gut dysbiosis and renal injury in the context of type 2 diabetes has not yet been explored. This study investigated whether excess consumption of dietary AGEs promotes gut dysbiosis and exacerbates renal injury in diabetic mice, and if this could be ameliorated with resistant starch (RS) supplementation.
+
+Methods:
+Six-week-old diabetic mice (db/db) and non-diabetic mice (db/m) were randomised to receive a low AGE (LAGE, unbaked rodent chow) or a high AGE diet (HAGE, baked at 160°C for 1h), with or without 12.5% RS for 10 weeks. 24-hour urine was collected for the assessment of albuminuria. Intestinal permeability was assessed in vivo by the clearance of FITC-labelled dextran. Cecal digesta were collected for an untargeted metabolomics screen and microbiota analysis by 16S rRNA gene sequencing.
+
+Results:
+The HAGE diet exacerbated albuminuria in diabetic mice which was attenuated by RS. The HAGE diet increased gut permeability of db/db mice, an effect not observed in HAGE+RS-fed db/db mice. In db/db mice, a HAGE diet was associated with an increase in the Firmicutes/Bacteroidetes (F/B) ratio, which was ameliorated by supplementation with RS. High-AGE-fed db/db mice had a unique cecal metabolome with a marked increase in metabolites from the phenylalanine, tryptophan and tyrosine pathways which were positively correlated with Firmicutes and negatively correlated with Bacteroidetes.
+
+Conclusions: 
+HAGE-feeding increased intestinal permeability and the F/B ratio, altered the cecal metabolome and worsened albuminuria in db/db mice. RS protected against HAGE-induced albuminuria and reversed changes observed in the microbiome and cecal metabolome. This study supports the notion that dietary AGEs contribute to DKD via alterations in gut homeostasis and indicate a potential renoprotective role for RS.

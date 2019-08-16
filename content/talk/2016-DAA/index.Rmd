@@ -1,0 +1,48 @@
+---
+title: "Excess Consumption Of Dietary Advanced Glycation End Products Induce Changes in Gut Microbiota which is Associated with Inflammation" 
+draft: false
+authors: []
+event: "Dietitian's Association of Australia 33rd National Conference"
+event_url: https://daa.asn.au
+location: Melbourne, Australia
+summary: "Dietitian's Association of Australia 33rd National Conference"
+
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: "2016-05-19T08:00:00Z"
+#date_end: "2019-10-02T12:00:00Z"
+all_day: true
+publishdate: "2016-05-19"
+
+links:
+- icon: file-alt
+  icon_pack: fa
+  name: Published Abstract
+  url: "pdf/conference/2016_DAA.pdf"
+
+- icon: award
+  icon_pack: fa
+  name: Highly Commended New Conference Presenter Award
+  url: "talk/2016-daa/"
+
+
+categories:
+#  - talks
+tags:
+  - advanced glycation endproducts
+  - resistant starch
+lastmod: '2019-06-16T02:20:01-07:00'
+featured: no
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: no
+projects: []
+---
+
+- Selected for Early Career Research Showcase
+- Recieved Highly Commended New Conference Presenter Award
+
+#### Abstract:
+
+A diet high in advanced glycation end-products (AGEs) may activate pathways involved in chronic disease progression thereby exacerbating pre-existing pathology. The majority of diet-derived AGEs escape digestion and reach the colon, and previous studies suggest that dietary AGEs can modulate the gut microbiota, though a comprehensive metagenomic profiling of the gut microbiota has not been previously performed. C57BL6/J mice (n=10/group) were randomised to receive a low AGE diet (unbaked rodent chow, AIN93G) or a high AGE diet (baked AIN93G rodent chow, 160°C for 1h, resulting in a 5-fold higher AGE content) for 24 weeks. 16S rRNA sequencing was used to profile the gut microbiome and showed that mice receiving a high AGE diet had an increase in cecal bacterial diversity compared to the low AGE diet. Analysis of the operational taxonomic unit (OTU) at the family level showed an increase in Bacteroidaceae and Heliobacteraceae and a decrease in Lachnospiraceae and Saccharibacteria. There was also a decrease in Akkermansia muciniphila species and genus Ruminococcus. Plasma monocyte chemoattractant protein (MCP)-1, a marker of inflammation, and plasma lipopolysaccharide (LPS), a marker of bacterial translocation measured by Limulus Amebocyte Lysate assay, were both increased after high AGE feeding. Gene expression of the tight junction proteins ZO-1 and occludin was assessed by qPCR and found to be downregulated in ileum and jejenum respectively. These novel data indicate that excessive dietary intake of AGEs alters the gut microbiome, induces intestinal permeability and bacterial translocation to the circulation, supporting the notion that diet-derived AGEs can promote inflammation.

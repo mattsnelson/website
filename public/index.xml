@@ -1,0 +1,964 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matthew Snelson</title>
+    <link>/</link>
+    <description>Recent content on Matthew Snelson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Aug 2019 09:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Example Page 1</title>
+      <link>/courses/example/example1/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/courses/example/example1/</guid>
+      <description>
+
+&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Page 2</title>
+      <link>/courses/example/example2/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/courses/example/example2/</guid>
+      <description>
+
+&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-4&#34;&gt;Tip 4&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Diabetes and the gut microbiota: sorting through the crap</title>
+      <link>/talk/2019-adc-3/</link>
+      <pubDate>Thu, 22 Aug 2019 09:00:00 +0000</pubDate>
+      
+      <guid>/talk/2019-adc-3/</guid>
+      <description>
+
+
+&lt;div id=&#34;abstract&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Abstract:&lt;/h4&gt;
+&lt;p&gt;There has been a recent explosion in research exploring the role of the microbiota in many disease states, including diabetes and metabolic disorders, fuelled by technological improvements and a reduction in the cost of microbiota sequencing. This session will provide an overview of the composition and function of the gut microbiota with particular relevance given to the role of the microbiota in diabetes and metabolic disorders. Key takeaways will include an understanding of how the microbiota is measured and the relative merits of different techniques, an appreciation of the common visualisations that are used to display the highly multidimensional data that are produced from microbiota sequencing, including the ability to interpret these findings, and an awareness of future directions of this field, in particular the relevance of microbiota testing to patient care within hospital and clinic settings. This symposium will also provide an overview of the lifestyle factors influencing the composition of the gut microbiota, including dietary prebiotics and probiotics, physical activity and sleep quality. Interventions used to favourably manipulate the composition of the gut microbiota in diabetes will be discussed, including interpretation of the evidence supporting the efficacy of these interventions. Following attendance at this symposium, participants will be able to provide practical and evidence-based advice about gut microbial measurement and manipulation to their patients with diabetes.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Advanced Glycation Endproduct-Induced Albuminuria and Changes in Gut Microbiota and Metabolome are Attenuated by Resistant Starch in a Mouse Model of Type 2 Diabetes</title>
+      <link>/talk/2019-adc-2/</link>
+      <pubDate>Thu, 22 Aug 2019 08:00:00 +0000</pubDate>
+      
+      <guid>/talk/2019-adc-2/</guid>
+      <description>
+
+
+&lt;div id=&#34;abstract&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Abstract:&lt;/h4&gt;
+&lt;p&gt;Background:
+Excess intake of dietary advanced glycation endproducts (AGEs) contributes to chronic renal injury. Gut dysbiosis is implicated in the progression of diabetic nephropathy, however, the role of dietary AGEs in gut dysbiosis and renal injury in the context of type 2 diabetes has not yet been explored. This study investigated whether excess consumption of dietary AGEs promotes gut dysbiosis and exacerbates renal injury in diabetic mice, and if this could be ameliorated with resistant starch (RS) supplementation.&lt;/p&gt;
+&lt;p&gt;Methods:
+Six-week-old diabetic mice (db/db) and non-diabetic mice (db/m) were randomised to receive a low AGE (LAGE, unbaked rodent chow) or a high AGE diet (HAGE, baked at 160°C for 1h), with or without 12.5% RS for 10 weeks. 24-hour urine was collected for the assessment of albuminuria. Intestinal permeability was assessed in vivo by the clearance of FITC-labelled dextran. Cecal digesta were collected for an untargeted metabolomics screen and microbiota analysis by 16S rRNA gene sequencing.&lt;/p&gt;
+&lt;p&gt;Results:
+The HAGE diet exacerbated albuminuria in diabetic mice which was attenuated by RS. The HAGE diet increased gut permeability of db/db mice, an effect not observed in HAGE+RS-fed db/db mice. In db/db mice, a HAGE diet was associated with an increase in the Firmicutes/Bacteroidetes (F/B) ratio, which was ameliorated by supplementation with RS. High-AGE-fed db/db mice had a unique cecal metabolome with a marked increase in metabolites from the phenylalanine, tryptophan and tyrosine pathways which were positively correlated with Firmicutes and negatively correlated with Bacteroidetes.&lt;/p&gt;
+&lt;p&gt;Conclusions:
+HAGE-feeding increased intestinal permeability and the F/B ratio, altered the cecal metabolome and worsened albuminuria in db/db mice. RS protected against HAGE-induced albuminuria and reversed changes observed in the microbiome and cecal metabolome. This study supports the notion that dietary AGEs contribute to DKD via alterations in gut homeostasis and indicate a potential renoprotective role for RS.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Resistant starch supplementation is not associated with protection against diabetic nephropathy in the STZ-induced diabetic mouse model</title>
+      <link>/talk/2019-adc-1/</link>
+      <pubDate>Thu, 22 Aug 2019 08:00:00 +0000</pubDate>
+      
+      <guid>/talk/2019-adc-1/</guid>
+      <description>
+
+
+&lt;div id=&#34;abstract&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Abstract:&lt;/h4&gt;
+&lt;p&gt;Background:
+The gut microbiota is increasingly recognised to be a potential therapeutic target in diabetic kidney disease. Studies using supraphysiological doses of dietary fibre to target the gut microbiota have shown promise in reducing albuminuria in animal models of diabetes and chronic kidney disease. However, there is limited data on the effects of dietary fibre interventions in the range of what could be reasonably expected to be consumed by humans.&lt;/p&gt;
+&lt;p&gt;Methods:
+Six week old littermate C57BL6/J mice were randomised and half were rendered diabetic by five daily intraperitoneal injections of 55 mg/kg streptozotocin. Mice were randomised to receive 24 weeks of either a regular chow diet (CON) or a resistant starch diet (RS) that was supplemented with 25% high amylose maize starch (HAMS, equivalent to 12.5% RS). The diets were isocaloric and matched for protein, fat and micronutrient content. 24-hour urine was collected for the assessment of albuminuria and urinary monocyte chemoattractant protein-1 (MCP-1). Blood urea nitrogen (BUN), urinary MCP-1 and albuminuria were measured by ELISA. Periodic acid-Schiff stained kidney sections were scored for glomerulosclerosis. Crypt depth and villi length were measured on haematoxylin and eosin stained ileum sections. Intestinal permeability was assessed in vivo by the clearance of FITC-labelled dextran (500mg/kg body weight).&lt;/p&gt;
+&lt;p&gt;Results:
+Diabetes was associated with increased albuminuria, BUN, urinary MCP-1 and glomerulosclerosis, none of which were reduced with RS supplementation. Diabetes was associated with increased villi height and a reduction in crypt depth in the ileum, which was not altered with RS supplementation. Interestingly, despite these morphological changes in the intestine, neither diabetes nor resistant starch supplementation was associated with changes in in vivo intestinal permeability.&lt;/p&gt;
+&lt;p&gt;Conclusions:
+Supplementation with a diet containing 12.5% resistant starch was not protective against diabetic nephropathy in the STZ-induced diabetic mouse model.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Metabolic effects of resistant starch type 2: a systematic literature review and meta-analysis of randomised controlled trials</title>
+      <link>/publication/2019_snelson_rs-slr/</link>
+      <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019_snelson_rs-slr/</guid>
+      <description>
+
+&lt;h4 id=&#34;full-citation&#34;&gt;Full Citation&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Matthew Snelson&lt;/strong&gt;, Jessica Jong, Deanna Manolas, Smonda Kok, Audrey Louise, Romi Stern, Nicole J Kellow, Metabolic effects of resistant starch type 2: a systematic literature review and meta-analysis of randomised controlled trials, &lt;em&gt;Nutrients&lt;/em&gt;, Volume 11, Issue 8, 2019, Page 1833&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Resistant starch does not protect against nephropathy or alter intestinal permeability in an STZ-induced diabetic mouse model</title>
+      <link>/publication/2019_snelson_gpr109a/</link>
+      <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019_snelson_gpr109a/</guid>
+      <description>
+
+&lt;h4 id=&#34;full-citation&#34;&gt;Full Citation&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Matthew Snelson&lt;/strong&gt;, Sih Min Tan, Runa SJ Lindblom, Gavin C Higgins, Charles R Mackay, Melinda T Coughlan, Resistant starch does not protect against nephropathy or alter intestinal permeability in an STZ-induced diabetic mouse model, bioRxiv 713354&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Display Jupyter Notebooks with Academic</title>
+      <link>/post/jupyter/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/jupyter/</guid>
+      <description>
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
+Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;img src=&#34;./academic_0_0.png&#34; alt=&#34;png&#34; /&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;print(&amp;quot;Welcome to Academic!&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code&gt;Welcome to Academic!
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;install-python-and-jupyter&#34;&gt;Install Python and Jupyter&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.anaconda.com/distribution/#download-section&#34; target=&#34;_blank&#34;&gt;Install Anaconda&lt;/a&gt; which includes Python 3 and Jupyter notebook.&lt;/p&gt;
+
+&lt;p&gt;Otherwise, for advanced users, install Jupyter notebook with &lt;code&gt;pip3 install jupyter&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;create-a-new-blog-post-as-usual-https-sourcethemes-com-academic-docs-managing-content-create-a-blog-post&#34;&gt;Create a new blog post &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-a-blog-post&#34; target=&#34;_blank&#34;&gt;as usual&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Run the following commands in your Terminal, substituting &lt;code&gt;&amp;lt;MY_WEBSITE_FOLDER&amp;gt;&lt;/code&gt; and &lt;code&gt;my-post&lt;/code&gt; with the file path to your Academic website folder and a name for your blog post (without spaces), respectively:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;cd &amp;lt;MY_WEBSITE_FOLDER&amp;gt;
+hugo new  --kind post post/my-post
+cd &amp;lt;MY_WEBSITE_FOLDER&amp;gt;/content/post/my-post/
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;create-or-upload-a-jupyter-notebook&#34;&gt;Create or upload a Jupyter notebook&lt;/h2&gt;
+
+&lt;p&gt;Run the following command to start Jupyter within your new blog post folder. Then create a new Jupyter notebook (&lt;em&gt;New &amp;gt; Python Notebook&lt;/em&gt;) or upload a notebook.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter notebook
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;convert-notebook-to-markdown&#34;&gt;Convert notebook to Markdown&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter nbconvert Untitled.ipynb --to markdown --NbConvertApp.output_files_dir=.
+
+# Copy the contents of Untitled.md and append it to index.md:
+cat Untitled.md | tee -a index.md
+
+# Remove the temporary file:
+rm Untitled.md
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;edit-your-post-metadata&#34;&gt;Edit your post metadata&lt;/h2&gt;
+
+&lt;p&gt;Open &lt;code&gt;index.md&lt;/code&gt; in your text editor and edit the title etc. in the &lt;a href=&#34;https://sourcethemes.com/academic/docs/front-matter/&#34; target=&#34;_blank&#34;&gt;front matter&lt;/a&gt; according to your preference.&lt;/p&gt;
+
+&lt;p&gt;To set a &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#featured-image&#34; target=&#34;_blank&#34;&gt;featured image&lt;/a&gt;, place an image named &lt;code&gt;featured&lt;/code&gt; into your post&amp;rsquo;s folder.&lt;/p&gt;
+
+&lt;p&gt;For other tips, such as using math, see the guide on &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;writing content with Academic&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/slides/example/</guid>
+      <description>
+
+&lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34;&gt;Academic&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Code block:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+
+&lt;p&gt;Block math:&lt;/p&gt;
+
+&lt;p&gt;$$
+f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+   One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+   &lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+   Three
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/aside&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/img/boards.jpg&#34;
+  &gt;
+
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/img/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dietary Advanced Glycation End Products: Digestion, Metabolism and Modulation of Gut Microbial Ecology</title>
+      <link>/publication/2019_snelson_ages-microbiota/</link>
+      <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019_snelson_ages-microbiota/</guid>
+      <description>
+
+&lt;h4 id=&#34;full-citation&#34;&gt;Full Citation&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Matthew Snelson&lt;/strong&gt;, Melinda T Coughlan, Dietary Advanced Glycation End Products: Digestion, Metabolism and Modulation of Gut Microbial Ecology, Nutrients, Volume 11, Issue 2, 2019, Page 215&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modulation of the Gut Microbiota by Resistant Starch as a Treatment of Chronic Kidney Diseases: Evidence of Efficacy and Mechanistic Insights</title>
+      <link>/publication/2019_snelson_rs_ckd/</link>
+      <pubDate>Mon, 21 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019_snelson_rs_ckd/</guid>
+      <description>
+
+&lt;h4 id=&#34;full-citation&#34;&gt;Full Citation&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Matthew Snelson&lt;/strong&gt;, Nicole J Kellow, Melinda T Coughlan, Modulation of the Gut Microbiota by Resistant Starch as a Treatment of Chronic Kidney Diseases: Evidence of Efficacy and Mechanistic Insights, Advances in Nutrition, Volume 10, Issue 2, March 2019, Pages 303–320&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Metabolic effects of resistant starch type 2: a systematic literature review and meta-analysis of randomised controlled trials</title>
+      <link>/talk/2018-nsa-2/</link>
+      <pubDate>Thu, 29 Nov 2018 08:00:00 +0000</pubDate>
+      
+      <guid>/talk/2018-nsa-2/</guid>
+      <description>
+
+
+&lt;div id=&#34;abstract&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Abstract:&lt;/h4&gt;
+&lt;p&gt;Published evidence exploring effects of dietary resistant starch (RS) on cardiometabolic health is inconsistent. This review aimed to investigate the effect of dietary RS type 2 (RS2) supplementation on body weight, satiety ratings, fasting plasma glucose, HbA1c, insulin resistance and lipid levels in healthy individuals and those with overweight/obesity, the metabolic syndrome (MetS) or type 2 diabetes mellitus (T2DM). Five electronic databases were searched for Randomised Controlled Trials (RCTs) published in English between 1982-2017, investigating the effect of dietary RS2 supplementation on cardiometabolic health.
+Trials were eligible for inclusion if they reported RCTs involving humans where at least one group received ≥10 grams of RS2 per day for ≥1 week, and measured body weight, satiety, glucose and/or lipid metabolic outcomes. Twenty RCTs involving 569 participants were included. RS2 supplementation significantly reduced serum triacylglycerol concentrations (Mean difference= -0.11 mmol/L; 95% CI -0.18, -0.04, P=0.002) in healthy individuals (n=227) and reduced body weight (MD= -1.29kg; 95% CI -2.40, -0.17, P=0.02) in people with T2DM (n=90), but had no effect on appetite, fasting plasma glucose, HbA1c, HOMA-IR, total cholesterol, LDL-cholesterol or HDL-cholesterol in any patient sub-groups. Most studies had a moderate-high risk of bias, were of short duration and contained small sample sizes. High quality, long-term trials are required to determine the efficacy of RS2 supplementation as a dietary strategy in the management of metabolic disease.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Resistant starch is protective against diabetic nephropathy by inhibition of complement activation in a mouse model of diabetes</title>
+      <link>/talk/2018-nsa-1/</link>
+      <pubDate>Thu, 29 Nov 2018 08:00:00 +0000</pubDate>
+      
+      <guid>/talk/2018-nsa-1/</guid>
+      <description>
+
+
+&lt;div id=&#34;abstract&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Abstract:&lt;/h4&gt;
+&lt;p&gt;Complement activation occurs in diabetic nephropathy with the downstream complement component C5a activating the innate immune system, contributing to inflammation. Resistant starch (RS) may be nephro-protective however the effects of RS on complement activation and the innate immune system have not been explored. Six week old non-diabetic mice (dbh), diabetic mice (dbdb) and dbdb mice on a regular chow diet supplemented with 25% RS (dbdbRS) were maintained for ten weeks. 24-hour urine was collected for albumin and C5a measurement by ELISA. Kidneys were digested and enriched for leukocytes using Percoll gradient and flow cytometry was performed. Diabetes was associated with an increase in albuminuria (28.0±6.5 vs 411.3±275.8µg/24h, P&amp;lt;0.001, dbh vs dbdb), which was reduced in diabetic mice receiving RS supplementation (411.3±275.8 vs 125.6±37.3µg/24h, P&amp;lt;0.01, dbdb vs dbdbRS). Urinary C5a excretion was increased by diabetes (92.6±17.6 vs 1324.0±429.7pg/24h, P&amp;lt;0.001, dbh vs dbdb) and decreased by RS (1324.0±429.7 vs 577.7±123.1pg/24h, P&amp;lt;0.05, dbdb vs dbdbRS) and infiltrating renal macrophages were more likely to be positive for C5aR with diabetes (4.8±3.9 vs 54.0±27.8%, P&amp;lt;0.001, dbh vs dbdb), which RS supplementation reduced (54.0±27.8 vs 11.7±4.2%, P&amp;lt;0.01, dbdb vs dbdbRS). These studies support the notion that RS is protective against renal disease via inhibition of complement.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dietary Resistant Starch Protects Against Diabetic Nephropathy by Inhibition of Complement</title>
+      <link>/talk/2018-anzsn/</link>
+      <pubDate>Sat, 08 Sep 2018 08:00:00 +0000</pubDate>
+      
+      <guid>/talk/2018-anzsn/</guid>
+      <description>
+
+
+&lt;div id=&#34;abstract&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Abstract:&lt;/h4&gt;
+&lt;p&gt;Aim
+To investigate immune mechanisms by which resistant starch (RS) supplementation may be protective against diabetic nephropathy.&lt;/p&gt;
+&lt;p&gt;Background
+Activation of complement occurs in diabetic nephropathy. C5a is a downstream complement component that activates the innate immune system contributing to inflammation. Dietary RS may be nephro-protective, however the effects of dietary RS on complement activation and the innate immune system have not been explored.&lt;/p&gt;
+&lt;p&gt;Methods
+Six week old non-diabetic mice (db/h), diabetic mice (db/db) and db/db mice on a regular chow diet supplemented with 25% RS (dbdb+RS) were maintained for ten weeks. 24-hour urine was collected for albumin and C5a measurement by ELISA. Kidneys were digested and enriched for leukocytes using Percoll gradient. Cells were stained with BV786-CD45, AF700-CD11b, PE-Cy7-CD11c, BV711-Siglec F, BV605-Ly6C, PE-CD86, FITC-C5aR antibodies and flow cytometry was performed.&lt;/p&gt;
+&lt;p&gt;Results
+Diabetes was associated with an increase in albuminuria (28.0±6.5 vs 411.3±275.8µg/24h, P&amp;lt;0.001, dbh vs dbdb), which was reduced in diabetic mice receiving RS supplementation (411.3±275.8 vs 125.6±37.3µg/24h, P&amp;lt;0.01, dbdb vs dbdb+RS). Urinary C5a excretion was increased by diabetes (92.6±17.6 vs 1324.0±429.7pg/24h, P&amp;lt;0.001, dbh vs dbdb) and decreased by RS (1324.0±429.7 vs 577.7±123.1pg/24h, P&amp;lt;0.05, dbdb vs dbdb+RS). In diabetes there was an increase in CD86 MFI (a marker of activation) on infiltrating macrophages (CD45+ CD11b+ CD11c- Siglec F- Ly6C hi), which was attenuated with RS (3.7±1.8 vs 1.5±1.0 fold change to dbh, P&amp;lt;0.05, dbdb vs dbdb+RS). Furthermore, infiltrating macrophages were more likely to be positive for C5aR with diabetes (4.8±3.9 vs 54.0±27.8%, P&amp;lt;0.001, dbh vs dbdb), which RS supplementation reduced (54.0±27.8 vs 11.7±4.2%, P&amp;lt;0.01, dbdb vs dbdb+RS).&lt;/p&gt;
+&lt;p&gt;Conclusions
+These studies support the notion that dietary RS is protective against renal disease via inhibition of complement.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Advanced Glycation Endproducts and the Gut Microbiota</title>
+      <link>/talk/2018-charm/</link>
+      <pubDate>Fri, 03 Aug 2018 08:00:00 +0000</pubDate>
+      
+      <guid>/talk/2018-charm/</guid>
+      <description>
+
+
+
+</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Resistant Starch Ameliorates Advanced Glycation Endproduct-Induced Albuminuria in a Mouse Model of Type 2 Diabetes</title>
+      <link>/talk/2017-easd/</link>
+      <pubDate>Thu, 14 Sep 2017 08:00:00 +0000</pubDate>
+      
+      <guid>/talk/2017-easd/</guid>
+      <description>
+
+
+&lt;div id=&#34;abstract&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Abstract:&lt;/h4&gt;
+&lt;p&gt;Background and Aim: Long-term excess intake of dietary advanced glycation endproducts (AGEs) contributes to chronic renal injury. Recent research implicates gut dysbiosis in the progression of diabetic nephropathy, however, the role of dietary AGEs in gut dysbiosis and renal injury in the context of diabetes has not yet been explored. The aim of this study was to investigate whether excess consumption of dietary AGEs cause gut dysbiosis, exacerbating renal injury in a mouse model of type 2 diabetes. A secondary aim was to elucidate whether a high fibre diet (resistant starch), may be protective against diabetic nephropathy via altering gut homeostasis. Methods: Six week old diabetic mice (db/db) (BKS.Cg-Dock7m+/+Leprdb/J) on a C57BL/KsJ background and age-matched non-diabetic control mice (db/m) were randomised (n=12/group) to receive a low AGE (LAGE, unbaked rodent chow) or a high AGE diet (HAGE, baked at 160°C for 1 hour), with or without 25% resistant starch (RS) for 10 weeks. All diets were isocaloric. 24-hour urine was collected for the assessment of albuminuria. At 15 weeks of age, mice were fasted and an oral glucose tolerance test (2g/kg lean body mass) was performed. At 16 weeks of age, intestinal permeability was assessed in vivo by the clearance of FITC-labelled dextran (500mg/kg body weight). Glycated haemoglobin was assessed using a Roche cobas b101 analyser.&lt;/p&gt;
+&lt;p&gt;Results: The high AGE diet exacerbated albuminuria in db/db mice (874.4±154.8 vs 536.2±96.5μg/24h, P&amp;lt;0.05, db/db HAGE vs db/db LAGE), and this AGE-induced increase in albuminuria was attenuated by RS (874.4±154.8 vs 515.5±71.9μg/24h, P&amp;lt;0.05, db/db HAGE vs db/db HAGE + RS). Db/db mice had increased gut permeability compared to db/m mice (2.38±0.32 vs 1.05±0.11μg/ml, P&amp;lt;0.01, db/db LAGE vs db/m LAGE). Furthermore, the high AGE diet increased gut permeability of db/db mice (3.43±0.43 vs 2.38±0.32μg/ml, P=0.06, db/db HAGE vs db/db LAGE), an effect not observed in RS-fed db/db mice (2.38±0.32 vs 2.86±0.35μg/ml, P&amp;gt;0.05, db/db LAGE vs db/db LAGE+RS). Following OGTT, db/db mice had a higher glucose AUC (74.08±5.98 vs 17.54±2.32 mmol/L x min, P&amp;lt;0.05, db/db LAGE vs db/m LAGE) and glycated haemoglobin (10.47±1.96 vs 4.06±0.12, P&amp;lt;0.05, db/db LAGE vs db/m LAGE) compared to db/m mice. Neither the high AGE diet nor the resistant starch supplemented diets influenced glycaemic control in db/db or db/m mice, as reflected by OGTT AUC (74.08±5.98 vs 75.29±6.45 vs 75.29±6.45 vs 72.64±7.16 mmol/L x min, P&amp;gt;0.05, db/db LAGE vs db/db LAGE+RS vs db/db HAGE vs db/db HAGE+RS), or glycated haemoglobin (10.61±0.46 vs 9.65±0.55 vs 10.98±0.67 vs 10.58±0.67 % glycated haemoglobin, P&amp;gt;0.05, db/db LAGE vs db/db LAGE+RS vs db/db HAGE vs db/db HAGE+RS).&lt;/p&gt;
+&lt;p&gt;Conclusions: A high AGE diet led to increased intestinal permeability, which was associated with worsening albuminuria in db/db mice. Resistant starch was protective against high AGE induced albuminuria in db/db mice, effects which are not dependant on changes in glucose homeostasis. These preliminary studies support the notion that dietary AGEs contribute to renal disease via alterations in gut homeostasis and suggest a potential role for resistant starch as a renoprotective agent.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Differential Effects of High-Protein Diets Derived from Soy and Casein on Blood–Brain Barrier Integrity in Wild-type Mice</title>
+      <link>/publication/2017_snelson_bbb-hp/</link>
+      <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2017_snelson_bbb-hp/</guid>
+      <description>
+
+&lt;h4 id=&#34;full-citation&#34;&gt;Full Citation&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Matthew Snelson&lt;/strong&gt;, John Mamo, Virginie Lam, Corey Giles, Ryusuke Takechi, Differential Effects of High-Protein Diets Derived from Soy and Casein on Blood–Brain Barrier Integrity in Wild-type Mice, Frontiers in Nutrition, Volume 4, Issue 35, 2017&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stirring the Pot: Can Dietary Modification Alleviate the Burden of CKD?</title>
+      <link>/publication/2017_snelson_diet_ckd/</link>
+      <pubDate>Sat, 11 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2017_snelson_diet_ckd/</guid>
+      <description>
+
+&lt;h4 id=&#34;full-citation&#34;&gt;Full Citation&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Matthew Snelson&lt;/strong&gt;, Rachel E Clarke, Melinda T Coughlan, Stirring the Pot: Can Dietary Modification Alleviate the Burden of CKD?, Nutrients, Volume 9, Issue 3, 2017, Page 265&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Resistant Starch Ameliorates Heat Treated Diet-Induced Gut Permeability and Renal Dysfunction in Experimental Diabetes</title>
+      <link>/talk/2016-nsa/</link>
+      <pubDate>Wed, 30 Nov 2016 08:00:00 +0000</pubDate>
+      
+      <guid>/talk/2016-nsa/</guid>
+      <description>
+
+
+&lt;div id=&#34;abstract&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Abstract:&lt;/h4&gt;
+&lt;p&gt;Background/Aims: Heat treating foods leads to the formation of advanced glycation endproducts (AGEs) which contribute to chronic renal injury. Recent research implicates gut dysbiosis in the progression of diabetic nephropathy. This study investigates whether excess consumption of dietary AGEs causes gut dysbiosis, exacerbating renal injury in a type 2 diabetes mouse model.
+Methods: Six week old diabetic (db/db) and non-diabetic (db/h) mice were randomised (n=12/group) to receive a low AGE (LAGE, unbaked rodent chow) or a high AGE diet (HAGE, baked at 160°C for 1 hour), with or without resistant starch (RS) for 10 weeks. 24-hour urine was collected and albuminuria was measured. Intestinal permeability was assessed in vivo by the clearance of FITC-labelled dextran (500mg/kg body weight). Statistical differences were assessed by one-way ANOVA.
+Results: The high AGE diet exacerbated albuminuria in db/db mice (874.4±154.8 vs 536.2±96.5µg/24h, P&amp;lt;0.05, db/db HAGE vs db/db LAGE), and RS attenuated this AGE-induced increase (874.4±154.8 vs 515.5±71.9µg/24h, P&amp;lt;0.05, db/db HAGE vs db/db HAGE+RS). Db/db mice had greater gut permeability compared to db/h mice (2.38±0.32 vs 1.05±0.11µg/ml, P&amp;lt;0.01, db/db LAGE vs db/h LAGE). Db/db-HAGE-fed mice trended towards increased gut permeability (3.43±0.43 vs 2.38±0.32µg/ml, P=0.06, db/db HAGE vs db/db LAGE), an effect not observed in RS-fed db/db mice.
+Conclusions: Heat-treated diets led to increased intestinal permeability and worsening albuminuria in db/db mice. RS was protective against high AGE-induced albuminuria in db/db mice. These preliminary studies support the notion that dietary AGEs contribute to renal disease via alterations in gut homeostasis.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Resistant Starch Ameliorates Advanced Glycation Endproduct-Induced Albuminuria ina Mouse Model of Type 2 Diabetes</title>
+      <link>/talk/2016-anzsn/</link>
+      <pubDate>Sun, 18 Sep 2016 08:00:00 +0000</pubDate>
+      
+      <guid>/talk/2016-anzsn/</guid>
+      <description>
+
+
+&lt;div id=&#34;abstract&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Abstract:&lt;/h4&gt;
+&lt;p&gt;Aim: To investigate whether excess consumption of dietary advanced glycation endproducts (AGEs) cause gut dysbiosis, exacerbating renal injury in a type 2 diabetes model.&lt;/p&gt;
+&lt;p&gt;Background: Long-term excess intake of dietary AGEs contributes to chronic renal injury. Recent research implicates gut dysbiosis in the progression of diabetic nephropathy. However, the role of dietary AGEs in gut dysbiosis and renal dysfunction in the context of diabetes has not yet been explored.&lt;/p&gt;
+&lt;p&gt;Methods: Six week old diabetic (db/db) and non-diabetic (db/h) mice were randomised (n=12/group) to receive a low AGE (LAGE, unbaked rodent chow) or a high AGE diet (HAGE, baked at 160°C for 1 hour), with or without resistant starch (RS) for 10 weeks. 24-hour urine was collected for the assessment of albuminuria. Intestinal permeability was assessed in-vivo by the clearance of FITC-labelled dextran (500mg/kg body weight).&lt;/p&gt;
+&lt;p&gt;Results: The high AGE diet exacerbated albuminuria in db/db mice (874.4±154.8 vs 536.2±96.53µg/24h, P&amp;lt;0.05, db/db HAGE vs db/db LAGE), and this AGE-induced increase in albuminuria was attenuated by RS (874.4±154.8 vs 515.5±71.88µg/24h, P&amp;lt;0.05, db/db HAGE vs db/db HAGE + RS). Db/db mice had greater gut permeability compared to db/h mice (2.38±0.32 vs 1.05±0.11µg/ml, P&amp;lt;0.01, db/db LAGE vs db/h LAGE). Furthermore, the high AGE diet tended to increase gut permeability of db/db mice (3.43±0.43 vs 2.38±0.32µg/ml, P=0.06, db/db HAGE vs db/db LAGE), an effect not observed in RS-fed db/db mice.&lt;/p&gt;
+&lt;p&gt;Conclusions: A high AGE diet led to increased intestinal permeability, which was associated with worsening albuminuria in db/db mice. Resistant starch was protective against high AGE induced albuminuria in db/db mice. These preliminary studies support the notion that dietary AGEs contribute to renal disease via alterations in gut homeostasis.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Excess Consumption Of Dietary Advanced Glycation End Products Induce Changes in Gut Microbiota which is Associated with Inflammation</title>
+      <link>/talk/2016-daa/</link>
+      <pubDate>Thu, 19 May 2016 08:00:00 +0000</pubDate>
+      
+      <guid>/talk/2016-daa/</guid>
+      <description>
+
+
+&lt;ul&gt;
+&lt;li&gt;Selected for Early Career Research Showcase&lt;/li&gt;
+&lt;li&gt;Recieved Highly Commended New Conference Presenter Award&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div id=&#34;abstract&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Abstract:&lt;/h4&gt;
+&lt;p&gt;A diet high in advanced glycation end-products (AGEs) may activate pathways involved in chronic disease progression thereby exacerbating pre-existing pathology. The majority of diet-derived AGEs escape digestion and reach the colon, and previous studies suggest that dietary AGEs can modulate the gut microbiota, though a comprehensive metagenomic profiling of the gut microbiota has not been previously performed. C57BL6/J mice (n=10/group) were randomised to receive a low AGE diet (unbaked rodent chow, AIN93G) or a high AGE diet (baked AIN93G rodent chow, 160°C for 1h, resulting in a 5-fold higher AGE content) for 24 weeks. 16S rRNA sequencing was used to profile the gut microbiome and showed that mice receiving a high AGE diet had an increase in cecal bacterial diversity compared to the low AGE diet. Analysis of the operational taxonomic unit (OTU) at the family level showed an increase in Bacteroidaceae and Heliobacteraceae and a decrease in Lachnospiraceae and Saccharibacteria. There was also a decrease in Akkermansia muciniphila species and genus Ruminococcus. Plasma monocyte chemoattractant protein (MCP)-1, a marker of inflammation, and plasma lipopolysaccharide (LPS), a marker of bacterial translocation measured by Limulus Amebocyte Lysate assay, were both increased after high AGE feeding. Gene expression of the tight junction proteins ZO-1 and occludin was assessed by qPCR and found to be downregulated in ileum and jejenum respectively. These novel data indicate that excessive dietary intake of AGEs alters the gut microbiome, induces intestinal permeability and bacterial translocation to the circulation, supporting the notion that diet-derived AGEs can promote inflammation.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>/project/external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/external-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internal Project</title>
+      <link>/project/internal-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/internal-project/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Academic: the website builder for Hugo</title>
+      <link>/post/getting-started/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/getting-started/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://sourcethemes.com/academic/#expo&#34; target=&#34;_blank&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#install&#34;&gt;&lt;strong&gt;Setup Academic&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/get-started/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Get Started&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;View the documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://discuss.gohugo.io/&#34; target=&#34;_blank&#34;&gt;Ask a question&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues&#34; target=&#34;_blank&#34;&gt;Request a feature or report a bug&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Updating? View the &lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34;&gt;Update Guide&lt;/a&gt; and &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Support development of Academic:
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://paypal.me/cushen&#34; target=&#34;_blank&#34;&gt;Donate a coffee&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.patreon.com/cushen&#34; target=&#34;_blank&#34;&gt;Become a backer on Patreon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.redbubble.com/people/neutreno/works/34387919-academic&#34; target=&#34;_blank&#34;&gt;Decorate your laptop or journal with an Academic sticker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://academic.threadless.com/&#34; target=&#34;_blank&#34;&gt;Wear the T-shirt&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; &gt;
+
+&lt;img src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; &gt;
+&lt;/a&gt;
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;strong&gt;Key features:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://sourcethemes.com/academic/docs/page-builder/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://sourcethemes.com/academic/docs/jupyter/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://sourcethemes.com/academic/themes/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 15+ language packs including English, 中文, and Português&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;color-themes&#34;&gt;Color Themes&lt;/h2&gt;
+
+&lt;p&gt;Academic comes with &lt;strong&gt;day (light) and night (dark) mode&lt;/strong&gt; built-in. Click the sun/moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34;&gt;Demo&lt;/a&gt; to see it in action!&lt;/p&gt;
+
+&lt;p&gt;Choose a stunning color and font theme for your site. Themes are fully customizable and include:&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-1950s.png&#34; data-caption=&#34;1950s&#34;&gt;
+  &lt;img src=&#34;/post/getting-started/gallery/theme-1950s_huaf5482f8cea0c5a703a328640e3b7509_21614_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-apogee.png&#34; data-caption=&#34;Apogee&#34;&gt;
+  &lt;img src=&#34;/post/getting-started/gallery/theme-apogee_hu4b45d99db97150df01464c393bfd17d4_24119_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-coffee-playfair.png&#34; data-caption=&#34;Coffee theme with Playfair font&#34;&gt;
+  &lt;img src=&#34;/post/getting-started/gallery/theme-coffee-playfair_hu446a8f670cc5622adcc77b97ba95f6c5_22462_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-dark.png&#34; data-caption=&#34;Dark&#34;&gt;
+  &lt;img src=&#34;/post/getting-started/gallery/theme-dark_hu1e8601ecc47f58eada7743fdcd709d3d_21456_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-default.png&#34; data-caption=&#34;Default&#34;&gt;
+  &lt;img src=&#34;/post/getting-started/gallery/theme-default_huba6228b7bdf30e2f03f12ea91b2cba0d_21751_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-forest.png&#34; data-caption=&#34;Forest&#34;&gt;
+  &lt;img src=&#34;/post/getting-started/gallery/theme-forest_hu4f093a1c683134431456584193ea41ee_21797_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-ocean.png&#34; data-caption=&#34;Ocean&#34;&gt;
+  &lt;img src=&#34;/post/getting-started/gallery/theme-ocean_hu14831ccafc2219f30a7a096fa7617e01_21760_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-strawberry.png&#34; data-caption=&#34;Strawberry&#34;&gt;
+  &lt;img src=&#34;/post/getting-started/gallery/theme-strawberry_hu36b0b347fcca08bd39e2df22dcedbdfb_39532_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+
+&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-admin&#34; target=&#34;_blank&#34;&gt;Academic Admin&lt;/a&gt;:&lt;/strong&gt; An admin tool to import publications from BibTeX or import assets for an offline site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-scripts&#34; target=&#34;_blank&#34;&gt;Academic Scripts&lt;/a&gt;:&lt;/strong&gt; Scripts to help migrate content to new versions of Academic&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;install&#34;&gt;Install&lt;/h2&gt;
+
+&lt;p&gt;You can choose from one of the following four methods to install:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-web-browser&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;one-click install using your web browser (recommended)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-git&#34; target=&#34;_blank&#34;&gt;install on your computer using &lt;strong&gt;Git&lt;/strong&gt; with the Command Prompt/Terminal app&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-zip&#34; target=&#34;_blank&#34;&gt;install on your computer by downloading the &lt;strong&gt;ZIP files&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34;&gt;install on your computer with &lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Then &lt;a href=&#34;https://sourcethemes.com/academic/docs/get-started/&#34; target=&#34;_blank&#34;&gt;personalize and deploy your new site&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;updating&#34;&gt;Updating&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34;&gt;View the Update Guide&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Feel free to &lt;em&gt;star&lt;/em&gt; the project on &lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt; to help keep track of &lt;a href=&#34;https://sourcethemes.com/academic/updates&#34; target=&#34;_blank&#34;&gt;updates&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Excess consumption of dietary advanced glycation end products induce changes in gut microbiota which is associated with inflammation</title>
+      <link>/talk/2015-imars/</link>
+      <pubDate>Wed, 30 Sep 2015 08:00:00 +0000</pubDate>
+      
+      <guid>/talk/2015-imars/</guid>
+      <description>
+
+
+&lt;div id=&#34;abstract&#34; class=&#34;section level4&#34;&gt;
+&lt;h4&gt;Abstract:&lt;/h4&gt;
+&lt;p&gt;Main Objectives: It is thought that over-consumption of food high in Advanced glycation end-products (AGEs) may activate pathways involved in chronic disease progression thereby exacerbating pre-existing pathology. The majority of diet-derived AGEs escape digestion and reach the colon, and previous studies suggest that dietary AGEs can modulate the gut microbiota, though a comprehensive profiling of gut microbiota using metagenomics has not been previously performed. The aim of this study was to characterise the effects of dietary AGEs on gut microbiota profile and inflammation.&lt;/p&gt;
+&lt;p&gt;Strategy and Methods: C57BL6/J mice (n=10/group) were randomised to receive a diet low in AGEs (unbaked rodent chow, AIN93G) or a diet high in AGEs (baked AIN93G rodent chow, 160 degrees C for 1h, resulting in a 5-fold higher AGE content) for 24 weeks. 16S rRNA sequencing was used to profile the gut microbiome. Inflammation was determined by plasma monocyte chemoattractant protein (MCP)-1 measured by ELISA. Bacterial translocation to the circulation was measured by plasma lipopolysaccharide (LPS) using the Limulus Amebocyte Lysate (LAL) assay. Tight junction proteins ZO-1 and occludin were determined in the ileum and jejenum by qPCR.&lt;/p&gt;
+&lt;p&gt;Main Results: Chronic consumption of excess dietary AGEs by healthy mice led to an increase in cecal bacterial diversity compared to the low AGE diet. Analysis of the operational taxonomic unit (OTU) at the family level showed an increase in Bacteroidaceae and Heliobacteraceae and a decrease in Lachnospiraceae and Saccharibacteria. There was also a decrease in Akkermansia muciniphila species and genus Ruminococcus. Plasma MCP-1 and LPS were increased after high AGE feeding. ZO-1 and occludin gene expression were downregulated in ileum and jejenum respectively.&lt;/p&gt;
+&lt;p&gt;Conclusions: These novel data indicate that excess dietary intake of AGEs alters the gut microbiome, induces intestinal permeability and bacterial translocation to the circulation, supporting the notion that diet-derived AGEs can promote inflammation.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example</title>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <description>
+
+
+&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;R Markdown&lt;/h1&gt;
+&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;summary(cars)
+##      speed           dist       
+##  Min.   : 4.0   Min.   :  2.00  
+##  1st Qu.:12.0   1st Qu.: 26.00  
+##  Median :15.0   Median : 36.00  
+##  Mean   :15.4   Mean   : 42.98  
+##  3rd Qu.:19.0   3rd Qu.: 56.00  
+##  Max.   :25.0   Max.   :120.00
+fit &amp;lt;- lm(dist ~ speed, data = cars)
+fit
+## 
+## Call:
+## lm(formula = dist ~ speed, data = cars)
+## 
+## Coefficients:
+## (Intercept)        speed  
+##     -17.579        3.932&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;including-plots&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Including Plots&lt;/h1&gt;
+&lt;p&gt;You can also embed plots. See Figure &lt;a href=&#34;#fig:pie&#34;&gt;1&lt;/a&gt; for example:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;par(mar = c(0, 1, 0, 1))
+pie(
+  c(280, 60, 20),
+  c(&amp;#39;Sky&amp;#39;, &amp;#39;Sunny side of pyramid&amp;#39;, &amp;#39;Shady side of pyramid&amp;#39;),
+  col = c(&amp;#39;#0292D8&amp;#39;, &amp;#39;#F7EA39&amp;#39;, &amp;#39;#C4B632&amp;#39;),
+  init.angle = -50, border = NA
+)&lt;/code&gt;&lt;/pre&gt;
+&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
+&lt;img src=&#34;/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figure 1: A fancy pie chart.
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

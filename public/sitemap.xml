@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/courses/example/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/2019-adc-3/</loc>
+    <lastmod>2019-06-16T02:20:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2019-06-16T02:20:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/diabetes/</loc>
+    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/gut-microbiota/</loc>
+    <lastmod>2019-06-16T02:20:01-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/talk/2019-adc-2/</loc>
+    <lastmod>2019-06-16T02:20:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/2019-adc-1/</loc>
+    <lastmod>2019-06-16T02:20:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/advanced-glycation-endproducts/</loc>
+    <lastmod>2019-06-16T02:20:01-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/diabetic-kidney-disease/</loc>
+    <lastmod>2019-07-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/resistant-starch/</loc>
+    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/matthew-snelson/</loc>
+    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/audrey-louise/</loc>
+    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/deanna-manolas/</loc>
+    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/jessica-jong/</loc>
+    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/2019_snelson_rs-slr/</loc>
+    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/nicole-kellow/</loc>
+    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/romi-stern/</loc>
+    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/smonda-kok/</loc>
+    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/metabolic-syndrome/</loc>
+    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication_types/3/</loc>
+    <lastmod>2019-07-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/charles-mackay/</loc>
+    <lastmod>2019-07-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/gavin-higgins/</loc>
+    <lastmod>2019-07-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/melinda-coughlan/</loc>
+    <lastmod>2019-07-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/2019_snelson_gpr109a/</loc>
+    <lastmod>2019-07-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/runa-lindblom/</loc>
+    <lastmod>2019-07-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/sih-min-tan/</loc>
+    <lastmod>2019-07-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/jupyter/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2019_snelson_ages-microbiota/</loc>
+    <lastmod>2019-01-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/chronic-kidney-disease/</loc>
+    <lastmod>2019-01-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/2019_snelson_rs_ckd/</loc>
+    <lastmod>2019-01-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/2018-nsa-2/</loc>
+    <lastmod>2019-06-16T02:20:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/2018-nsa-1/</loc>
+    <lastmod>2019-06-16T02:20:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/complement-activation/</loc>
+    <lastmod>2019-06-16T02:20:01-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/talk/2018-anzsn/</loc>
+    <lastmod>2019-06-16T02:20:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/2018-charm/</loc>
+    <lastmod>2019-06-16T02:20:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/2017-easd/</loc>
+    <lastmod>2019-06-16T02:20:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/blood-brain-barrier/</loc>
+    <lastmod>2017-07-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/corey-giles/</loc>
+    <lastmod>2017-07-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/2017_snelson_bbb-hp/</loc>
+    <lastmod>2017-07-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/high-protein-diets/</loc>
+    <lastmod>2017-07-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/john-mamo/</loc>
+    <lastmod>2017-07-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/ryusuke-takechi/</loc>
+    <lastmod>2017-07-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/virginie-lam/</loc>
+    <lastmod>2017-07-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/diet/</loc>
+    <lastmod>2017-03-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/rachel-clarke/</loc>
+    <lastmod>2017-03-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/2017_snelson_diet_ckd/</loc>
+    <lastmod>2017-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/2016-nsa/</loc>
+    <lastmod>2019-06-16T02:20:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/2016-anzsn/</loc>
+    <lastmod>2019-06-16T02:20:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/2016-daa/</loc>
+    <lastmod>2019-06-16T02:20:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/external-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/internal-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/getting-started/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/2015-imars/</loc>
+    <lastmod>2019-06-16T02:20:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2015-07-23-r-rmarkdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/courses/</loc>
+  </url>
+  
+</urlset>

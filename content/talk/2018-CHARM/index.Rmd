@@ -1,0 +1,35 @@
+---
+title: "Advanced Glycation Endproducts and the Gut Microbiota" 
+draft: false
+authors: []
+event: "Canberra Health Annual Research Meeting"
+event_url: 
+location: Canberra, Australia
+summary: "Canberra Health Annual Research Meeting"
+
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: "2018-08-03T08:00:00Z"
+#date_end: "2019-10-02T12:00:00Z"
+all_day: true
+publishdate: "2018-08-03"
+
+links:
+- icon: user-tie
+  icon_pack: fa
+  name: Invited Speaker
+  url: "talk/2018-CHARM/"
+
+categories:
+#  - talks
+tags:
+  - advanced glycation endproducts
+  - gut microbiota
+lastmod: '2019-06-16T02:20:01-07:00'
+featured: no
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: no
+projects: []
+---

@@ -1,0 +1,59 @@
+---
+title: "Resistant starch supplementation is not associated with protection against diabetic nephropathy in the STZ-induced diabetic mouse model" 
+draft: false
+authors: []
+event: "Australasian Diabetes Congress 2019"
+event_url: http://www.diabetescongress.com.au/ 
+location: Sydney, Australia
+summary: "Australasian Diabetes Congress 2019"
+
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: "2019-08-22T08:00:00Z"
+#date_end: "2019-10-02T12:00:00Z"
+all_day: true
+publishdate: "2019-08-22"
+
+links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/matt_snelson
+#- icon: file-alt
+#  icon_pack: fa
+#  name: Published Abstract
+#  url: ""
+
+#- icon: slideshare
+#  icon_pack: fab
+#  name: Slides
+#  url: "slides/2018-NSA.pdf"
+
+categories:
+#  - talks
+tags:
+  - advanced glycation endproducts
+  - resistant starch
+  - diabetic kidney disease
+lastmod: '2019-06-16T02:20:01-07:00'
+featured: no
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: no
+projects: []
+---
+
+#### Abstract:
+
+Background:
+The gut microbiota is increasingly recognised to be a potential therapeutic target in diabetic kidney disease. Studies using supraphysiological doses of dietary fibre to target the gut microbiota have shown promise in reducing albuminuria in animal models of diabetes and chronic kidney disease. However, there is limited data on the effects of dietary fibre interventions in the range of what could be reasonably expected to be consumed by humans.
+
+Methods:
+Six week old littermate C57BL6/J mice were randomised and half were rendered diabetic by five daily intraperitoneal injections of 55 mg/kg streptozotocin. Mice were randomised to receive 24 weeks of either a regular chow diet (CON) or a resistant starch diet (RS) that was supplemented with 25% high amylose maize starch (HAMS, equivalent to 12.5% RS). The diets were isocaloric and matched for protein, fat and micronutrient content. 24-hour urine was collected for the assessment of albuminuria and urinary monocyte chemoattractant protein-1 (MCP-1). Blood urea nitrogen (BUN), urinary MCP-1 and albuminuria were measured by ELISA. Periodic acid-Schiff stained kidney sections were scored for glomerulosclerosis. Crypt depth and villi length were measured on haematoxylin and eosin stained ileum sections. Intestinal permeability was assessed in vivo by the clearance of FITC-labelled dextran (500mg/kg body weight).
+
+Results:
+Diabetes was associated with increased albuminuria, BUN, urinary MCP-1 and glomerulosclerosis, none of which were reduced with RS supplementation. Diabetes was associated with increased villi height and a reduction in crypt depth in the ileum, which was not altered with RS supplementation. Interestingly, despite these morphological changes in the intestine, neither diabetes nor resistant starch supplementation was associated with changes in in vivo intestinal permeability. 
+
+Conclusions: 
+Supplementation with a diet containing 12.5% resistant starch was not protective against diabetic nephropathy in the STZ-induced diabetic mouse model.

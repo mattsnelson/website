@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rmarkdown on Matthew Snelson</title>
+    <link>/tags/rmarkdown/</link>
+    <description>Recent content in rmarkdown on Matthew Snelson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Sep 2019 08:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/rmarkdown/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CommChangwearkdown Workshop</title>
+      <link>/talk/2019-ysc-workshop/</link>
+      <pubDate>Mon, 30 Sep 2019 08:00:00 +0000</pubDate>
+      
+      <guid>/talk/2019-ysc-workshop/</guid>
+      <description>
+
+
+&lt;p&gt;In this workshop, we will demystify how R Markdown works under the hood. You will learn practical tools and workflows to increase your efficiency and productivity using R Markdown (including RStudio IDE features and templates), while learning how to use some extension packages along the way. We assume that you have knit an R Markdown document before, but you don’t need to be an advanced R Markdown user to take this workshop.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
