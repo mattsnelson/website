@@ -20,10 +20,10 @@ links:
 #  name: Published Abstract
 #  url: "pdf/conference/2018_ANZSN.pdf"
 
-- icon: slideshare
-  icon_pack: fab
-  name: Slides
-  url: "slides/2018-NSA.pdf"
+# - icon: slideshare
+#   icon_pack: fab
+#   name: Slides
+#   url: "slides/2018-NSA.pdf"
 
 - icon: link
   icon_pack: fa

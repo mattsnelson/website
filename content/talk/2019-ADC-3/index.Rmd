@@ -12,7 +12,7 @@ summary: "Australasian Diabetes Congress 2019"
 date: "2019-08-22T09:00:00Z"
 #date_end: "2019-10-02T12:00:00Z"
 all_day: true
-publishdate: "2019-08-22"
+publishdate: "2019-08-01"
 
 links:
 - icon: twitter
@@ -24,7 +24,7 @@ links:
   icon_pack: fa
   name: Invited Speaker
   url: "talk/2019-ADC-3/"
-  
+
 #- icon: file-alt
 #  icon_pack: fa
 #  name: Published Abstract
@@ -33,7 +33,7 @@ links:
 #- icon: slideshare
 #  icon_pack: fab
 #  name: Slides
-#  url: "slides/2018-NSA.pdf"
+#  url: "#TODO"
 
 categories:
 #  - talks
