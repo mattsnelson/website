@@ -33,7 +33,7 @@ links:
 #- icon: slideshare
 #  icon_pack: fab
 #  name: Slides
-#  url: "#TODO"
+#  url: "#TODO"       #<-can add slides via this. 
 
 categories:
 #  - talks

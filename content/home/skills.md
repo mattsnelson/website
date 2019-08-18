@@ -17,8 +17,8 @@ subtitle = ""
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "Data Analysis in R"
+  description = "SOmething about how I do it."
   
 [[feature]]
   icon = "chart-line"
@@ -27,9 +27,32 @@ subtitle = ""
   description = "100%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "poop"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Microbiome"
+  description = "Analysis of 16S rRNA sequence data using QIIME2 or dada2/phyloseq (in R)"
 
+[[feature]]
+  icon = "dna"
+  icon_pack = "fas"
+  name = "Molecular Biology"
+  description = "Flow Cytometry, RT-PCR, ELISA"
+  
+[[feature]]
+  icon = "microscope"
+  icon_pack = "fas"
+  name = "Immunohistochemistry"
+  description = "Immunohistochemistry, ...?this icon works"
+
+[[feature]]
+  icon = "adobe"
+  icon_pack = "fas"
+  name = "Adobe"
+  description = "Experience prepraring figures in Adobe Photoshop and Illustrator"
+
+[[feature]]
+  icon = "syringe"
+  icon_pack = "fas"
+  name = "*In vivo* experiments"
+  description = "Animal handling, gavage, injection, dissection"  #?want to include disection?
 +++

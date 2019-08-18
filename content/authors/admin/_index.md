@@ -18,7 +18,7 @@ education:
     year: 2009
   - course: Bachelor of Science (Nutrition)
     institution: Curtin University
-    year: 2006
+    year: 2008
 email: "matthew.snelson@monash.edu"
 interests:
 - Diet-Microbiota Interactions
