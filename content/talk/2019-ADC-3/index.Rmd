@@ -58,6 +58,13 @@ image:
 projects: []
 ---
 
+#### Slides:
+
+[My Presentation](pdf/2019_ADEA_microbiome.pdf).
+
+[Dr Nicole Kellow's Presentation](pdf/2019_ADEA_NK.pdf).
+
+
 #### Abstract:
 
 There has been a recent explosion in research exploring the role of the microbiota in many disease states, including diabetes and metabolic disorders, fuelled by technological improvements and a reduction in the cost of microbiota sequencing. This session will provide an overview of the composition and function of the gut microbiota with particular relevance given to the role of the microbiota in diabetes and metabolic disorders. Key takeaways will include an understanding of how the microbiota is measured and the relative merits of different techniques, an appreciation of the common visualisations that are used to display the highly multidimensional data that are produced from microbiota sequencing, including the ability to interpret these findings, and an awareness of future directions of this field, in particular the relevance of microbiota testing to patient care within hospital and clinic settings. This symposium will also provide an overview of the lifestyle factors influencing the composition of the gut microbiota, including dietary prebiotics and probiotics, physical activity and sleep quality. Interventions used to favourably manipulate the composition of the gut microbiota in diabetes will be discussed, including interpretation of the evidence supporting the efficacy of these interventions. Following attendance at this symposium, participants will be able to provide practical and evidence-based advice about gut microbial measurement and manipulation to their patients with diabetes.
