@@ -25,6 +25,11 @@ links:
 #  name: Published Abstract
 #  url: ""
 
+- icon: award
+  icon_pack: fa
+  name: "Finalist - Pincus Taft Award"
+  url: "talk/2018-ADC-3/"
+
 
 categories:
 #  - talks
