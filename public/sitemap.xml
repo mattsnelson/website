@@ -18,31 +18,261 @@
   </url>
   
   <url>
-    <loc>/talk/2019-adc-3/</loc>
-    <lastmod>2019-06-16T02:20:01-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
+    <loc>/authors/matthew-snelson/</loc>
+    <lastmod>2019-11-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/talk/</loc>
-    <lastmod>2019-06-16T02:20:01-07:00</lastmod>
+    <loc>/publication_types/3/</loc>
+    <lastmod>2019-11-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2019-11-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/2019_snelson_gpr109a/</loc>
+    <lastmod>2019-11-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/gpr109a/</loc>
+    <lastmod>2019-11-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/gavin-higgins/</loc>
+    <lastmod>2019-11-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-11-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/melinda-coughlan/</loc>
+    <lastmod>2019-11-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2019-11-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2019-11-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/resistant-starch/</loc>
+    <lastmod>2019-11-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/runa-lindblom/</loc>
+    <lastmod>2019-11-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/sih-min-tan/</loc>
+    <lastmod>2019-11-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/diabetic-kidney-disease/</loc>
+    <lastmod>2019-11-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2019-11-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/2019_snelson_jrn_letter/</loc>
+    <lastmod>2019-11-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/adrienne-laskowski/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/alison-skene/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/assam-el-osta/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/2019_tan_diabetes/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/darren-henstridge/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/david-power/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/elif-ekinci/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/josephine-forbes/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/kevin-huynh/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/mark-cooper/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/mark-ziemann/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/michele-clarke/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/peter-meikle/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/renata-libianto/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/richard-macisaac/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/rick-wetsel/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/scott-baker/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/scott-wilson/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/trent-woodruff/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/tuong-vi-nguyen/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/vicki-thallas-bonke/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/vinod-kumar/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/complement-activation/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/diabetes/</loc>
-    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/mitochondria/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/talk/2019-adc-3/</loc>
+    <lastmod>2019-06-16T02:20:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2019-06-16T02:20:01-07:00</lastmod>
   </url>
   
   <url>
@@ -68,37 +298,7 @@
   </url>
   
   <url>
-    <loc>/tags/diabetic-kidney-disease/</loc>
-    <lastmod>2019-07-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/resistant-starch/</loc>
-    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/matthew-snelson/</loc>
-    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/authors/audrey-louise/</loc>
-    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
     <lastmod>2019-08-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -127,17 +327,6 @@
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/romi-stern/</loc>
     <lastmod>2019-08-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -152,47 +341,6 @@
   <url>
     <loc>/tags/metabolic-syndrome/</loc>
     <lastmod>2019-08-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication_types/3/</loc>
-    <lastmod>2019-07-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/charles-mackay/</loc>
-    <lastmod>2019-07-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/gavin-higgins/</loc>
-    <lastmod>2019-07-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/melinda-coughlan/</loc>
-    <lastmod>2019-07-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/2019_snelson_gpr109a/</loc>
-    <lastmod>2019-07-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/runa-lindblom/</loc>
-    <lastmod>2019-07-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/sih-min-tan/</loc>
-    <lastmod>2019-07-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -246,12 +394,6 @@
   <url>
     <loc>/talk/2018-nsa-1/</loc>
     <lastmod>2019-06-16T02:20:01-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/complement-activation/</loc>
-    <lastmod>2019-06-16T02:20:01-07:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
