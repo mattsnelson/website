@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Matthew Snelson</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,27 +14,45 @@
     <item>
       <title>GPR109a</title>
       <link>/tags/gpr109a/</link>
-      <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/gpr109a/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Resistant Starch</title>
+      <title>diabetic kidney disease</title>
+      <link>/tags/diabetic-kidney-disease/</link>
+      <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/diabetic-kidney-disease/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>resistant starch</title>
       <link>/tags/resistant-starch/</link>
-      <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/resistant-starch/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>diabetic kidney disease</title>
-      <link>/tags/diabetic-kidney-disease/</link>
-      <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
+      <title>kidney disease</title>
+      <link>/tags/kidney-disease/</link>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/diabetic-kidney-disease/</guid>
+      <guid>/tags/kidney-disease/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>microbiota</title>
+      <link>/tags/microbiota/</link>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/microbiota/</guid>
       <description></description>
     </item>
     
