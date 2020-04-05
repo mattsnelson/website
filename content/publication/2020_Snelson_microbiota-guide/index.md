@@ -12,7 +12,7 @@ projects: []
 publication: '*Journal of Renal Nutrition*'
 publication_short: ""
 publication_types:
-- "3"
+- "2"
 publishDate: "2020-01-30T00:00:00Z"
 slides: ""
 summary: ""
@@ -22,7 +22,7 @@ tags:
 title: "A Renal Clinician's Guide to the Gut Microbiota" 
 url_code: ""
 url_dataset: ""
-url_pdf: "todo"
+url_pdf: "https://www.jrnjournal.org/article/S1051-2276(19)30411-X/fulltext"
 url_poster: ""
 url_project: ""
 url_slides: ""
@@ -32,4 +32,4 @@ url_preprint: ""
 ---
 
 #### Full Citation
-**Matthew Snelson**, Annabel Biruete, Catherine McFarlane, Katrina Campbell, A Renal Clinician's Guide to the Gut Microbiota, *Journal of Renal Nutrition*, (epub ahead of print)
+**Matthew Snelson**, Annabel Biruete, Catherine McFarlane, Katrina Campbell, A Renal Clinician's Guide to the Gut Microbiota, *Journal of Renal Nutrition*, 2020 (epub ahead of print)

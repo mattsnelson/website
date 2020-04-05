@@ -27,7 +27,7 @@ authors:
 - Trent Woodruff
 - Melinda Coughlan
 
-date: "2019-11-11T00:00:00Z"
+date: "2020-01-11T00:00:00Z"
 doi: "https://doi.org/10.2337/db19-0043"
 featured: false
 image:
@@ -39,7 +39,7 @@ publication: '*Diabetes*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2019-11-21T00:00:00Z"
+publishDate: "2020-01-21T00:00:00Z"
 summary: ""
 tags: 
 - diabetes
@@ -57,4 +57,4 @@ url_video: ""
 ---
 
 #### Full Citation
-Tan S, Ziemann M, Thallas-Bonke V, **Snelson M**, Baker S, Jerums G, Skene A, Power D, MacIsaac R, Henstridge D, Wetsel R, Meikle P, El-Osta A, Forbes J, Cooper M, Ekinci E, Woodruff T, Coughlan M: Complement C5a Induces Renal Injury in Diabetic Kidney Disease Via Disruption in Mitochondrial Metabolic Agility *Diabetes*, Volume XX, Issue X, XXX 2019, Pages XXX-XXX [Article In Press]
+Tan S, Ziemann M, Thallas-Bonke V, **Snelson M**, Baker S, Jerums G, Skene A, Power D, MacIsaac R, Henstridge D, Wetsel R, Meikle P, El-Osta A, Forbes J, Cooper M, Ekinci E, Woodruff T, Coughlan M: Complement C5a Induces Renal Injury in Diabetic Kidney Disease Via Disruption in Mitochondrial Metabolic Agility *Diabetes*, Volume 69, Issue 1, 2020, Pages 83-98

@@ -13,7 +13,7 @@ projects: []
 publication: '*Am J Physiol Renal Physiol*'
 publication_short: ""
 publication_types:
-- "3"
+- "2"
 publishDate: "2019-11-30T00:00:00Z"
 slides: ""
 summary: ""
@@ -21,6 +21,7 @@ tags:
 - resistant starch
 - diabetic kidney disease
 - GPR109a
+- G-protein coupled receptors
 title: "Exploring the role of the metabolite-sensing receptor GPR109a in diabetic nephropathy" 
 url_code: ""
 url_dataset: ""
