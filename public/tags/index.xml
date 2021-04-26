@@ -6,10 +6,37 @@
     <description>Recent content in Tags on Matthew Snelson</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>advanced glycation endproducts</title>
+      <link>/tags/advanced-glycation-endproducts/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/advanced-glycation-endproducts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>diabetic kidney disease</title>
+      <link>/tags/diabetic-kidney-disease/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/diabetic-kidney-disease/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>microbiota</title>
+      <link>/tags/microbiota/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/microbiota/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>chronic kidney disease</title>
@@ -30,11 +57,29 @@
     </item>
     
     <item>
-      <title>microbiota</title>
-      <link>/tags/microbiota/</link>
-      <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
+      <title>diabetes</title>
+      <link>/tags/diabetes/</link>
+      <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>/tags/microbiota/</guid>
+      <guid>/tags/diabetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>intestinal permeability</title>
+      <link>/tags/intestinal-permeability/</link>
+      <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/intestinal-permeability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>resistant starch</title>
+      <link>/tags/resistant-starch/</link>
+      <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/resistant-starch/</guid>
       <description></description>
     </item>
     
@@ -57,29 +102,11 @@
     </item>
     
     <item>
-      <title>resistant starch</title>
-      <link>/tags/resistant-starch/</link>
-      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/resistant-starch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>GPR109a</title>
       <link>/tags/gpr109a/</link>
       <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/gpr109a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>diabetic kidney disease</title>
-      <link>/tags/diabetic-kidney-disease/</link>
-      <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/diabetic-kidney-disease/</guid>
       <description></description>
     </item>
     
@@ -111,29 +138,11 @@
     </item>
     
     <item>
-      <title>diabetes</title>
-      <link>/tags/diabetes/</link>
-      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/diabetes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>gut microbiota</title>
       <link>/tags/gut-microbiota/</link>
       <pubDate>Thu, 22 Aug 2019 09:00:00 +0000</pubDate>
       
       <guid>/tags/gut-microbiota/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>advanced glycation endproducts</title>
-      <link>/tags/advanced-glycation-endproducts/</link>
-      <pubDate>Thu, 22 Aug 2019 08:00:00 +0000</pubDate>
-      
-      <guid>/tags/advanced-glycation-endproducts/</guid>
       <description></description>
     </item>
     
