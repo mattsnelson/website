@@ -12,20 +12,20 @@
     
     
     <item>
+      <title>Blood Brain Barrier</title>
+      <link>/tags/blood-brain-barrier/</link>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/blood-brain-barrier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>blood pressure</title>
       <link>/tags/blood-pressure/</link>
       <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
       
       <guid>/tags/blood-pressure/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>blood-brain barrier</title>
-      <link>/tags/blood-brain-barrier/</link>
-      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/blood-brain-barrier/</guid>
       <description></description>
     </item>
     
@@ -111,7 +111,7 @@
     </item>
     
     <item>
-      <title>diet</title>
+      <title>Diet</title>
       <link>/tags/diet/</link>
       <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
       
@@ -138,7 +138,7 @@
     </item>
     
     <item>
-      <title>G protein-coupled receptors</title>
+      <title>G-protein coupled receptors</title>
       <link>/tags/g-protein-coupled-receptors/</link>
       <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
       
@@ -152,6 +152,33 @@
       <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
       
       <guid>/tags/cardiovascular-disease/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dietary assessment</title>
+      <link>/tags/dietary-assessment/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/dietary-assessment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>feeding study</title>
+      <link>/tags/feeding-study/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/feeding-study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>metabolomics</title>
+      <link>/tags/metabolomics/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/metabolomics/</guid>
       <description></description>
     </item>
     
@@ -183,20 +210,218 @@
     </item>
     
     <item>
-      <title>advanced glycation endproducts</title>
-      <link>/tags/advanced-glycation-endproducts/</link>
-      <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
+      <title>diabetes</title>
+      <link>/tags/diabetes/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>/tags/advanced-glycation-endproducts/</guid>
+      <guid>/tags/diabetes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>diabetic kidney disease</title>
       <link>/tags/diabetic-kidney-disease/</link>
-      <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
       
       <guid>/tags/diabetic-kidney-disease/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fermentation</title>
+      <link>/tags/fermentation/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/fermentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gut</title>
+      <link>/tags/gut/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/gut/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>oxidative stress</title>
+      <link>/tags/oxidative-stress/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/oxidative-stress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>proximal tubules</title>
+      <link>/tags/proximal-tubules/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/proximal-tubules/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>animal models</title>
+      <link>/tags/animal-models/</link>
+      <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/animal-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resistant Starch</title>
+      <link>/tags/resistant-starch/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/resistant-starch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>complement activation</title>
+      <link>/tags/complement-activation/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/complement-activation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>autoimmunity</title>
+      <link>/tags/autoimmunity/</link>
+      <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/autoimmunity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kidney disease</title>
+      <link>/tags/kidney-disease/</link>
+      <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/kidney-disease/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>implementation</title>
+      <link>/tags/implementation/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/implementation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nutrition science</title>
+      <link>/tags/nutrition-science/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/nutrition-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>methodology</title>
+      <link>/tags/methodology/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/methodology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>microbiome</title>
+      <link>/tags/microbiome/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/microbiome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>metagenomics</title>
+      <link>/tags/metagenomics/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/metagenomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chronic kidney disease</title>
+      <link>/tags/chronic-kidney-disease/</link>
+      <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/chronic-kidney-disease/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>immunometabolism</title>
+      <link>/tags/immunometabolism/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/immunometabolism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>diet quality</title>
+      <link>/tags/diet-quality/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/diet-quality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>protein fermentation</title>
+      <link>/tags/protein-fermentation/</link>
+      <pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/protein-fermentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>advanced glycation endproducts</title>
+      <link>/tags/advanced-glycation-endproducts/</link>
+      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/advanced-glycation-endproducts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>randomized controlled trial</title>
+      <link>/tags/randomized-controlled-trial/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/randomized-controlled-trial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>synbiotic</title>
+      <link>/tags/synbiotic/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/synbiotic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fecal microbiota transplantation</title>
+      <link>/tags/fecal-microbiota-transplantation/</link>
+      <pubDate>Wed, 29 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/fecal-microbiota-transplantation/</guid>
       <description></description>
     </item>
     
@@ -210,38 +435,11 @@
     </item>
     
     <item>
-      <title>chronic kidney disease</title>
-      <link>/tags/chronic-kidney-disease/</link>
-      <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/chronic-kidney-disease/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>high protein diet</title>
       <link>/tags/high-protein-diet/</link>
       <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/high-protein-diet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>diabetes</title>
-      <link>/tags/diabetes/</link>
-      <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/diabetes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>resistant starch</title>
-      <link>/tags/resistant-starch/</link>
-      <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/resistant-starch/</guid>
       <description></description>
     </item>
     
@@ -264,29 +462,11 @@
     </item>
     
     <item>
-      <title>proximal tubules</title>
-      <link>/tags/proximal-tubules/</link>
-      <pubDate>Thu, 24 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/proximal-tubules/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>GPR109a</title>
       <link>/tags/gpr109a/</link>
       <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/gpr109a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>kidney disease</title>
-      <link>/tags/kidney-disease/</link>
-      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/kidney-disease/</guid>
       <description></description>
     </item>
     
@@ -300,16 +480,7 @@
     </item>
     
     <item>
-      <title>complement activation</title>
-      <link>/tags/complement-activation/</link>
-      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/complement-activation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>metabolic syndrome</title>
+      <title>Metabolic Syndrome</title>
       <link>/tags/metabolic-syndrome/</link>
       <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
       

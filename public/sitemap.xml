@@ -47,6 +47,12 @@
   </url>
   
   <url>
+    <loc>/tags/blood-brain-barrier/</loc>
+    <lastmod>2026-05-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/cass-mangan/</loc>
     <lastmod>2026-05-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -155,12 +161,6 @@
   
   <url>
     <loc>/tags/blood-pressure/</loc>
-    <lastmod>2026-05-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/blood-brain-barrier/</loc>
     <lastmod>2026-05-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -290,14 +290,14 @@
   </url>
   
   <url>
-    <loc>/publication/2025_yang_parental-diet-epigenetics/</loc>
-    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/diet/</loc>
     <lastmod>2025-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/2025_yang_parental-diet-epigenetics/</loc>
+    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -448,12 +448,144 @@
   </url>
   
   <url>
+    <loc>/authors/caroline-j-tuck/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/catalina-cuparencu/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/charlotte-e-mills/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/clare-e-collins/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/david-p-de-souza/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/deborah-a-kerr/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/dorit-samocha-bonet/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/publication/2025_snelson_nuts-microbiome-meta/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>/authors/elaine-holmes/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/erin-d-clarke/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/george-moschonis/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/heidi-m-staudacher/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/james-o-hill/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/jessica-j-a-ferguson/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/jessica-r-biesiekierski/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/jordan-stanford/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/kathryn-l-beck/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/kay-nguo/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/kerith-duncanson/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/lihi-godny/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/mar-garcia-aloy/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/maria-h-traka/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/maria-gomez-martin/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/megan-a-mccrory/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -465,7 +597,42 @@
   </url>
   
   <url>
+    <loc>/authors/rachel-kimble/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/2025_ferguson_did-metab-cos/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/susanna-chen/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/tammie-jakstas/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/dietary-assessment/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/feeding-study/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/metabolomics/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -519,7 +686,803 @@
   
   <url>
     <loc>/authors/adrienne-laskowski/</loc>
-    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/chu-k-yao/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/did-metab-delphi-working-group/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/david-c-h-harris/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/guoping-zheng/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/inez-a-trambas/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/isabelle-rubera/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/karly-c-sourris/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/lilliana-bowen/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/mark-e-cooper/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/melinda-t-coughlan/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/2025_biesiekierski_gi-physiology-methods/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/michel-tauc/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/2025_ferguson_did-metab-ee/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/phillip-kantharidis/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/2025_trambas_sod2-proximal-tubule/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/sih-min-tan/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/takahiko-shimizu/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/vicki-thallas-bonke/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/diabetes/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/diabetic-kidney-disease/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/fermentation/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/gut/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/oxidative-stress/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/proximal-tubules/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/antony-vinh/</loc>
+    <lastmod>2024-09-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/david-m-kaye/</loc>
+    <lastmod>2024-09-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/flavia-wassef/</loc>
+    <lastmod>2024-09-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/grant-r-drummond/</loc>
+    <lastmod>2024-09-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/2024_muralitharan_angii-microbiome/</loc>
+    <lastmod>2024-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/madeleine-paterson/</loc>
+    <lastmod>2024-09-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/michael-nakai/</loc>
+    <lastmod>2024-09-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/tenghao-zheng/</loc>
+    <lastmod>2024-09-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/waled-shihata/</loc>
+    <lastmod>2024-09-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/animal-models/</loc>
+    <lastmod>2024-09-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/2024_snelson_gut-permeability-hypertension/</loc>
+    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/tim-vanuytsel/</loc>
+    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/aletta-e-schutte/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/2024_jama_fiber-bp-recommendations/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/anna-m-drake/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/cassandra-de-pasquale/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/devy-deliyanti/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/2024_snelson_rs-kidney-immune/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jennifer-l-wilkinson-berka/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/resistant-starch/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/trent-m-woodruff/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/vinod-kumar/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/complement-activation/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/diana-shu-yee-tan/</loc>
+    <lastmod>2024-04-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/jenny-nguyen/</loc>
+    <lastmod>2024-04-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/kim-maree-osullivan/</loc>
+    <lastmod>2024-04-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/2024_tan_gut-autoimmune-kidney/</loc>
+    <lastmod>2024-04-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/yibeltal-akelew/</loc>
+    <lastmod>2024-04-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/autoimmunity/</loc>
+    <lastmod>2024-04-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/kidney-disease/</loc>
+    <lastmod>2024-04-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/2024_truby_decadal-plan-nutrition/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/aimee-l-dordevic/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/catherine-bondonno/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/eleanor-j-beck/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/emma-l-beckett/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/helen-truby/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/jane-willcox/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/katherine-m-livingstone/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/margaret-allman-farinelli/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/national-committee-for-nutrition-working-groups/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/shelley-a-wilkinson/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/implementation/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/nutrition-science/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/amelia-j-mcguinness/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/amy-loughman/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/andrea-stringer/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/anthony-j-hannan/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/australasian-human-microbiome-research-network-ahmrn-committee/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/caitlin-s-m-cowan/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/2024_mcguinness_microbiome-science/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/hannah-r-wardill/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/jose-a-caparros-martin/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/lisa-f-stinson/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/madeline-l-west/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/methodology/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/microbiome/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/2023_muralitharan_microbiome-renal-guidelines/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/guillaume-meric/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/metagenomics/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/annabel-biruete/</loc>
+    <lastmod>2023-02-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/barbara-perez-vogt/</loc>
+    <lastmod>2023-02-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/cassiana-regina-de-goes/</loc>
+    <lastmod>2023-02-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/2023_degoes_nutrition-kidney-editorial/</loc>
+    <lastmod>2023-02-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/thomas-j-wilkinson/</loc>
+    <lastmod>2023-02-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/chronic-kidney-disease/</loc>
+    <lastmod>2023-02-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/claus-t-christophersen/</loc>
+    <lastmod>2022-10-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/2022_drake_rs-dkd-review/</loc>
+    <lastmod>2022-10-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jakob-a-%C3%B8stergaard/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/2022_tan_complement-immunometabolic-dkd/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/immunometabolism/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/catherine-mcfarlane/</loc>
+    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/david-w-johnson/</loc>
+    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/2022_mcfarlane_diet-quality-uremic-toxins/</loc>
+    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/emma-savill/</loc>
+    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/gabor-mihala/</loc>
+    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/katrina-l-campbell/</loc>
+    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/mark-morrison/</loc>
+    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/rathika-krishnasamy/</loc>
+    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/tony-stanton/</loc>
+    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/diet-quality/</loc>
+    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/elena-rampanelli/</loc>
+    <lastmod>2022-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/max-nieuwdorp/</loc>
+    <lastmod>2022-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/2022_snelson_microbial-influencers/</loc>
+    <lastmod>2022-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/nordin-m-j-hanssen/</loc>
+    <lastmod>2022-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/anne-gibbon/</loc>
+    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/gary-williamson/</loc>
+    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/kirill-tsyganov/</loc>
+    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/louise-e-bennett/</loc>
+    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/margaret-murray/</loc>
+    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/2022_murray_resistant-protein-pigs/</loc>
+    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/sophie-selby-pham/</loc>
+    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/tong-wu/</loc>
+    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/protein-fermentation/</loc>
+    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/elisa-lucut/</loc>
+    <lastmod>2022-02-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/2022_snelson_age-rage-gut/</loc>
+    <lastmod>2022-02-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/advanced-glycation-endproducts/</loc>
+    <lastmod>2022-02-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/jaimon-t-kelly/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/2021_mcfarlane_synergy2/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/randomized-controlled-trial/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/synbiotic/</loc>
+    <lastmod>2021-12-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/caitlin-cowan/</loc>
+    <lastmod>2021-09-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/cassandra-e-gheorghe/</loc>
+    <lastmod>2021-09-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/courtney-b-subramaniam/</loc>
+    <lastmod>2021-09-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/gerard-clarke/</loc>
+    <lastmod>2021-09-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/ghanyah-h-al-qadami/</loc>
+    <lastmod>2021-09-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/2021_secombe_graft-guidelines/</loc>
+    <lastmod>2021-09-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jacqui-scott/</loc>
+    <lastmod>2021-09-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/joanne-m-bowen/</loc>
+    <lastmod>2021-09-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/john-f-cryan/</loc>
+    <lastmod>2021-09-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/kate-r-secombe/</loc>
+    <lastmod>2021-09-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/ysabella-z-a-van-sebille/</loc>
+    <lastmod>2021-09-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/fecal-microbiota-transplantation/</loc>
+    <lastmod>2021-09-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -572,12 +1535,6 @@
   </url>
   
   <url>
-    <loc>/authors/sih-min-tan/</loc>
-    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/authors/stuart-t.-caldwell/</loc>
     <lastmod>2021-04-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -595,49 +1552,13 @@
   </url>
   
   <url>
-    <loc>/authors/vicki-thallas-bonke/</loc>
-    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/advanced-glycation-endproducts/</loc>
-    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/diabetic-kidney-disease/</loc>
-    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/ace2/</loc>
     <lastmod>2021-04-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/david-m-kaye/</loc>
-    <lastmod>2021-04-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/authors/louise-m-burrell/</loc>
-    <lastmod>2021-04-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/melinda-t-coughlan/</loc>
-    <lastmod>2021-04-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/michael-nakai/</loc>
     <lastmod>2021-04-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -655,12 +1576,6 @@
   
   <url>
     <loc>/authors/brooke-e.-harcourt/</loc>
-    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/cassandra-de-pasquale/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -784,12 +1699,6 @@
   </url>
   
   <url>
-    <loc>/tags/chronic-kidney-disease/</loc>
-    <lastmod>2021-02-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/high-protein-diet/</loc>
     <lastmod>2021-02-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -804,18 +1713,6 @@
   <url>
     <loc>/publication/2021_snelson_beem-review/</loc>
     <lastmod>2021-02-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/diabetes/</loc>
-    <lastmod>2021-02-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/resistant-starch/</loc>
-    <lastmod>2021-02-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -837,18 +1734,6 @@
   </url>
   
   <url>
-    <loc>/authors/guoping-zheng/</loc>
-    <lastmod>2020-12-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/isabelle-rubera/</loc>
-    <lastmod>2020-12-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/authors/jay-chandra-jha/</loc>
     <lastmod>2020-12-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -861,25 +1746,7 @@
   </url>
   
   <url>
-    <loc>/authors/karly-c-sourris/</loc>
-    <lastmod>2020-12-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/authors/mahmoud-h-elbatreek/</loc>
-    <lastmod>2020-12-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/mark-e-cooper/</loc>
-    <lastmod>2020-12-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/michel-tauc/</loc>
     <lastmod>2020-12-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -897,12 +1764,6 @@
   </url>
   
   <url>
-    <loc>/authors/phillip-kantharidis/</loc>
-    <lastmod>2020-12-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/authors/runa-s-lindblom/</loc>
     <lastmod>2020-12-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -911,12 +1772,6 @@
   <url>
     <loc>/publication/2020_thallasbonke_nox4/</loc>
     <lastmod>2020-12-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/proximal-tubules/</loc>
-    <lastmod>2020-12-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -944,12 +1799,6 @@
   
   <url>
     <loc>/authors/ana-m-valdes/</loc>
-    <lastmod>2020-04-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/antony-vinh/</loc>
     <lastmod>2020-04-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1002,12 +1851,6 @@
   </url>
   
   <url>
-    <loc>/authors/kirill-tsyganov/</loc>
-    <lastmod>2020-04-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/authors/sarah-phillips/</loc>
     <lastmod>2020-04-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1015,12 +1858,6 @@
   
   <url>
     <loc>/authors/tim-spector/</loc>
-    <lastmod>2020-04-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/waled-shihata/</loc>
     <lastmod>2020-04-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1060,25 +1897,7 @@
   </url>
   
   <url>
-    <loc>/authors/annabel-biruete/</loc>
-    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/catherine-mcfarlane/</loc>
-    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/authors/katrina-campbell/</loc>
-    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/kidney-disease/</loc>
     <lastmod>2020-01-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1202,18 +2021,6 @@
   </url>
   
   <url>
-    <loc>/authors/vinod-kumar/</loc>
-    <lastmod>2020-01-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/complement-activation/</loc>
-    <lastmod>2020-01-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/publication/2019_snelson_jrn_letter/</loc>
     <lastmod>2019-11-21T00:00:00+00:00</lastmod>
   </url>
@@ -1257,6 +2064,12 @@
   </url>
   
   <url>
+    <loc>/tags/metabolic-syndrome/</loc>
+    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/publication/2019_snelson_rs-slr/</loc>
     <lastmod>2019-08-05T00:00:00+00:00</lastmod>
   </url>
@@ -1275,12 +2088,6 @@
   
   <url>
     <loc>/authors/smonda-kok/</loc>
-    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/metabolic-syndrome/</loc>
     <lastmod>2019-08-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
