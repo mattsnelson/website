@@ -28,9 +28,9 @@ interests:
 - Data Analysis in R
 name: Matthew Snelson
 organizations:
-- name: Monash University
-  url: "https://monash.edu"
-role: Research Fellow, Department of Diabetes
+- name: Edith Cowan University
+  url: "https://www.ecu.edu.au/"
+role: Vice Chancellor's Research Fellow, Nutrition & Health Innovation Research Institute
 social:
 - icon: envelope
   icon_pack: fas
@@ -52,7 +52,7 @@ social:
   link: https://orcid.org/0000-0003-4829-9550
 - icon: university
   icon_pack: fa
-  link: https://research.monash.edu/en/persons/matt-snelson
+  link: https://www.ecu.edu.au/schools/medical-and-health-sciences/our-staff/profiles/senior-research-fellows/dr-matthew-snelson
 superuser: true
 user_groups:
 - Researchers

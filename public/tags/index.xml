@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Matthew Snelson</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Apr 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>advanced glycation endproducts</title>
       <link>/tags/advanced-glycation-endproducts/</link>
-      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/advanced-glycation-endproducts/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>diabetic kidney disease</title>
       <link>/tags/diabetic-kidney-disease/</link>
-      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/diabetic-kidney-disease/</guid>
       <description></description>
@@ -32,9 +32,27 @@
     <item>
       <title>microbiota</title>
       <link>/tags/microbiota/</link>
-      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/microbiota/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ACE2</title>
+      <link>/tags/ace2/</link>
+      <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ace2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hypertension</title>
+      <link>/tags/hypertension/</link>
+      <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/hypertension/</guid>
       <description></description>
     </item>
     
@@ -80,6 +98,33 @@
       <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/resistant-starch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NADPH oxidase</title>
+      <link>/tags/nadph-oxidase/</link>
+      <pubDate>Thu, 24 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/nadph-oxidase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nox4</title>
+      <link>/tags/nox4/</link>
+      <pubDate>Thu, 24 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/nox4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>proximal tubules</title>
+      <link>/tags/proximal-tubules/</link>
+      <pubDate>Thu, 24 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/proximal-tubules/</guid>
       <description></description>
     </item>
     
@@ -138,7 +183,7 @@
     </item>
     
     <item>
-      <title>gut microbiota</title>
+      <title>Gut Microbiota</title>
       <link>/tags/gut-microbiota/</link>
       <pubDate>Thu, 22 Aug 2019 09:00:00 +0000</pubDate>
       
