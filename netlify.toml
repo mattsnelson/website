@@ -1,0 +1,16 @@
+# Netlify deploy config.
+#
+# This site is built LOCALLY with blogdown + Hugo 0.55.6 (the version the
+# legacy Academic 4.3.1 theme requires) and the generated `public/` directory
+# is committed to the repo. Netlify therefore does NOT build the site — it
+# simply publishes the pre-built `public/` folder. This avoids Netlify trying
+# to install the old Hugo 0.55.6 (whose tarball checksum no longer matches the
+# mise/aqua registry, which breaks the build) and prevents an automatic Hugo
+# upgrade from breaking the old theme.
+#
+# To update the site: edit content, run `blogdown::hugo_build()` in R, then
+# commit (including `public/`) and push.
+
+[build]
+  publish = "public"
+  command = "echo 'Skipping build — publishing pre-built public/ (built locally with blogdown + Hugo 0.55.6).'"
