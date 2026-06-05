@@ -51,9 +51,9 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "matthew.snelson@monash.edu"
-phone = "+61 3 9903 0476"
-address = "Departent of Diabetes, Level 5, Alfred Centre, 99 Commercial Road, Melbourne 3004 VIC, Australia"
+email = "m.snelson@ecu.edu.au"
+phone = ""
+address = ""
 
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
@@ -64,10 +64,7 @@ appointment_url = ""
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
-contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "Follow me on Twitter", link = "https://twitter.com/matt_snelson"},
-  # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
-  ]
+contact_links = []
 
 # Display a map.
 # To show your address on a map in the contact widget, you need to enter your latitude, longitude and choose

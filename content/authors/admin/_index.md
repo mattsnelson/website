@@ -19,7 +19,7 @@ education:
   - course: Bachelor of Science (Nutrition)
     institution: Curtin University
     year: 2008
-email: "matthew.snelson@monash.edu"
+email: "m.snelson@ecu.edu.au"
 interests:
 - Diet-Microbiota Interactions
 - Metagenomics
@@ -59,6 +59,8 @@ user_groups:
 - Visitors
 ---
 
-I am a dietitian and Research Fellow in the [Department of Diabetes, Central Clinical School](https://www.monash.edu/medicine/ccs/diabetes) interested in the role of diet in altering disease states via modulation of the gut microbiota. 
+I am an advanced Accredited Practicing Dietitian and Vice Chancellor's Research Fellow in the School of Medical and Health Sciences within the Nutrition & Health Innovation Research Institute (NHIRI) at Edith Cowan University. I am interested in how dietary interventions can influence the prevention and management of chronic diseases—such as hypertension, heart failure, diabetes, and kidney disease—through modulation of gut homeostasis. My work explores how nutrition-driven changes in the gut microbiome, intestinal permeability, and metabolic pathways can reduce disease risk and improve therapeutic outcomes.
 
-I completed my PhD at Monash University in 2019 in the [Coughlan Laboratory](https://www.monash.edu/medicine/ccs/diabetes/research/coughlan-group), investigating the effects of a processed diet on gut homeostasis and the contribution that these changes make to the development of diabetic kidney disease. I am currently investigating the role of resistant starch on the development of diabetic nephropathy.
+I completed my PhD in 2019 at Monash University's [Department of Diabetes](https://www.monash.edu/medicine/ccs/diabetes), where I investigated how a processed diet disrupts gut homeostasis and contributes to the development of diabetic kidney disease, working in the [Coughlan Laboratory](https://www.monash.edu/medicine/ccs/diabetes/research/coughlan-group). Following this, I continued as a postdoctoral research fellow in the same department, focusing on the effects of resistant starch on diabetic kidney disease.
+
+From 2022 to 2025, I held a Heart Foundation Postdoctoral Fellowship and served as Group Leader and Co-Deputy Lab Head of the [Hypertension Research Laboratory](https://www.marqueslab.com/) at Monash University. My research program examined how dietary interventions can influence hypertension by modulating gut microbiota and intestinal permeability.
