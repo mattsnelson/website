@@ -19,13 +19,107 @@
   
   <url>
     <loc>/authors/matthew-snelson/</loc>
-    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/publication_types/2/</loc>
-    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2025-05-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/chia-feng-liu/</loc>
+    <lastmod>2025-05-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/francine-z-marques/</loc>
+    <lastmod>2025-05-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/2025_snelson_gut-heart-axis/</loc>
+    <lastmod>2025-05-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/lajos-marko/</loc>
+    <lastmod>2025-05-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2025-05-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2025-05-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2025-05-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/rikeish-r.-muralitharan/</loc>
+    <lastmod>2025-05-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/sofia-k.-forslund/</loc>
+    <lastmod>2025-05-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2025-05-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/w.-h.-wilson-tang/</loc>
+    <lastmod>2025-05-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/gut-microbiota/</loc>
+    <lastmod>2025-05-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/heart-failure/</loc>
+    <lastmod>2025-05-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/intestinal-permeability/</loc>
+    <lastmod>2025-05-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/microbiota/</loc>
+    <lastmod>2025-05-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -37,12 +131,6 @@
   
   <url>
     <loc>/authors/assam-el-osta/</loc>
-    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
     <lastmod>2021-04-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -72,12 +160,6 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/authors/melinda-t.-coughlan/</loc>
     <lastmod>2021-04-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -87,17 +169,6 @@
     <loc>/authors/michael-p.-murphy/</loc>
     <lastmod>2021-04-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -120,12 +191,6 @@
   
   <url>
     <loc>/authors/stuart-t.-caldwell/</loc>
-    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2021-04-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -155,12 +220,6 @@
   
   <url>
     <loc>/tags/diabetic-kidney-disease/</loc>
-    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/microbiota/</loc>
     <lastmod>2021-04-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -196,12 +255,6 @@
   </url>
   
   <url>
-    <loc>/authors/francine-z-marques/</loc>
-    <lastmod>2021-04-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/authors/hamdi-a-jama/</loc>
     <lastmod>2021-04-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -228,12 +281,6 @@
   <url>
     <loc>/publication/2021_snelson_hypertension/</loc>
     <lastmod>2021-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/rikeish-r.-muralitharan/</loc>
-    <lastmod>2021-04-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -391,6 +438,12 @@
   </url>
   
   <url>
+    <loc>/tags/diabetes/</loc>
+    <lastmod>2021-02-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/elif-i.-ekinci/</loc>
     <lastmod>2021-02-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -403,18 +456,6 @@
   
   <url>
     <loc>/tags/resistant-starch/</loc>
-    <lastmod>2021-02-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/diabetes/</loc>
-    <lastmod>2021-02-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/intestinal-permeability/</loc>
     <lastmod>2021-02-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -848,12 +889,6 @@
   </url>
   
   <url>
-    <loc>/tags/gut-microbiota/</loc>
-    <lastmod>2019-06-16T02:20:01-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/talk/2019-adc-2/</loc>
     <lastmod>2019-06-16T02:20:01-07:00</lastmod>
   </url>
@@ -882,6 +917,12 @@
   </url>
   
   <url>
+    <loc>/tags/metabolic-syndrome/</loc>
+    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/publication/2019_snelson_rs-slr/</loc>
     <lastmod>2019-08-05T00:00:00+00:00</lastmod>
   </url>
@@ -900,12 +941,6 @@
   
   <url>
     <loc>/authors/smonda-kok/</loc>
-    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/metabolic-syndrome/</loc>
     <lastmod>2019-08-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
