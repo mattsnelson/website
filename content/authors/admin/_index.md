@@ -34,7 +34,7 @@ role: Vice Chancellor's Research Fellow, Nutrition & Health Innovation Research 
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'
+  link: 'mailto:m.snelson@ecu.edu.au'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/matt_snelson
