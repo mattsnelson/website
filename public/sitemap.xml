@@ -402,12 +402,6 @@
   </url>
   
   <url>
-    <loc>/tags/resistant-starch/</loc>
-    <lastmod>2021-02-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/diabetes/</loc>
     <lastmod>2021-02-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -415,6 +409,12 @@
   
   <url>
     <loc>/tags/intestinal-permeability/</loc>
+    <lastmod>2021-02-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/resistant-starch/</loc>
     <lastmod>2021-02-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
