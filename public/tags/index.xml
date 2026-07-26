@@ -6,10 +6,55 @@
     <description>Recent content in Tags on Matthew Snelson</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>cardiovascular disease</title>
+      <link>/tags/cardiovascular-disease/</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/cardiovascular-disease/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chronic kidney disease</title>
+      <link>/tags/chronic-kidney-disease/</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/chronic-kidney-disease/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gut microbiota</title>
+      <link>/tags/gut-microbiota/</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/gut-microbiota/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>intestinal permeability</title>
+      <link>/tags/intestinal-permeability/</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/intestinal-permeability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>uremic toxins</title>
+      <link>/tags/uremic-toxins/</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/uremic-toxins/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Blood Brain Barrier</title>
@@ -57,24 +102,6 @@
     </item>
     
     <item>
-      <title>gut microbiota</title>
-      <link>/tags/gut-microbiota/</link>
-      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/gut-microbiota/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>intestinal permeability</title>
-      <link>/tags/intestinal-permeability/</link>
-      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/intestinal-permeability/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>nutrition</title>
       <link>/tags/nutrition/</link>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
@@ -111,7 +138,7 @@
     </item>
     
     <item>
-      <title>Diet</title>
+      <title>diet</title>
       <link>/tags/diet/</link>
       <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
       
@@ -138,20 +165,11 @@
     </item>
     
     <item>
-      <title>G-protein coupled receptors</title>
+      <title>G protein-coupled receptors</title>
       <link>/tags/g-protein-coupled-receptors/</link>
       <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
       
       <guid>/tags/g-protein-coupled-receptors/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cardiovascular disease</title>
-      <link>/tags/cardiovascular-disease/</link>
-      <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/cardiovascular-disease/</guid>
       <description></description>
     </item>
     
@@ -273,20 +291,20 @@
     </item>
     
     <item>
-      <title>Resistant Starch</title>
-      <link>/tags/resistant-starch/</link>
-      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/resistant-starch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>complement activation</title>
       <link>/tags/complement-activation/</link>
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
       
       <guid>/tags/complement-activation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>resistant starch</title>
+      <link>/tags/resistant-starch/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/resistant-starch/</guid>
       <description></description>
     </item>
     
@@ -350,15 +368,6 @@
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
       
       <guid>/tags/metagenomics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>chronic kidney disease</title>
-      <link>/tags/chronic-kidney-disease/</link>
-      <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/chronic-kidney-disease/</guid>
       <description></description>
     </item>
     
@@ -480,7 +489,7 @@
     </item>
     
     <item>
-      <title>Metabolic Syndrome</title>
+      <title>metabolic syndrome</title>
       <link>/tags/metabolic-syndrome/</link>
       <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
       
